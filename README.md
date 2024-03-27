@@ -19,6 +19,8 @@ Voilà! The spells have been cast, and you're almost ready to roll.
 
 ## Usage ✨
 
+Use Python 3.8 or newer
+
 Run the script using your Python interpreter:
 
 ```bash
